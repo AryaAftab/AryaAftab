@@ -5,7 +5,9 @@
 <a href="https://scholar.google.com/citations?user=-aXK86UAAAAJ&hl=en">
   <img align="left" alt="Arya's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/30603302/178332928-1977e009-4ed3-4a98-9524-301c9845523e.png" />
 </a>
-<br/ >
+<br/ ><br/ >
+
+As a Data Scientist and Machine Learning Engineer, I worked independently and as a team member for several projects, including voice command, speech emotion recognition, speech enhancement, etc. My desire to learn more about Machine Learning, Deep Learning, their applications and deploy them into real-world models.
 
 
 ## Hello, My name is Arya!
